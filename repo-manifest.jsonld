@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/python-hyper/wsproto/commit/5e0685d0740ec30716897442f336de1118f5f40a",
       "git:hexsha": "5e0685d0740ec30716897442f336de1118f5f40a",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-10-11T23:48:23.766742+00:00"
     },
     {
       "@id": "https://repolex.ai/r/python-hyper/wsproto/commit/e94dc21fe5a30e1781e77f2e74057f6913e490e5",
