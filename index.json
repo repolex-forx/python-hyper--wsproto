@@ -1,0 +1,11 @@
+{
+  "org": "python-hyper",
+  "repo": "wsproto",
+  "versions": [
+    {
+      "commit": "5e0685d0740ec30716897442f336de1118f5f40a",
+      "tag": "",
+      "parsed_at": "2026-10-11T23:48:23.767342+00:00"
+    }
+  ]
+}
