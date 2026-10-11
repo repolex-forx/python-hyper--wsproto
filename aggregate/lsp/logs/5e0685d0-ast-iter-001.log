@@ -1,0 +1,7 @@
+[2026-10-11T23:47:03Z] === AST ITERATION 1 START | repo=python-hyper/wsproto sha=5e0685d0 ===
+[2026-10-11T23:47:03Z] [iter=1] PHASE START: ast repo=python-hyper/wsproto sha=5e0685d0
+[2026-10-11T23:47:03Z] [iter=1] Building AST aggregate chunks
+[2026-10-11T23:47:25Z] [iter=1] AST chunks built count=1 triples=208734
+[2026-10-11T23:47:25Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/5e0685d0740ec30716897442f336de1118f5f40a/.complete
+[2026-10-11T23:47:25Z] [iter=1] PHASE END: ast elapsed_s=22 elapsed_min=0.4
+[2026-10-11T23:47:25Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
